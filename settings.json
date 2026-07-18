@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "UNITY_SMP_Session1.aternos.me",
+    "port": 39623,
     "version": "1.21.1"
   },
   "position": {
